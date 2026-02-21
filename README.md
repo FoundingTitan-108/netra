@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="Gemini_Generated_Image_txintttxintttxin (1)" src="https://github.com/user-attachments/assets/d4a259af-7a93-4af0-b2b5-ec0e4329d255" />
+<img width="740" height="740" alt="Gemini_Generated_Image_txintttxintttxin (1)" src="https://github.com/user-attachments/assets/d4a259af-7a93-4af0-b2b5-ec0e4329d255" />
 
 
 # netra
