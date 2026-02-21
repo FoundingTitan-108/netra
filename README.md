@@ -1,4 +1,4 @@
-<img width="300" height="300" alt="Gemini_Generated_Image_txintttxintttxin (1)" src="https://github.com/user-attachments/assets/d4a259af-7a93-4af0-b2b5-ec0e4329d255" />
+<img width="500" height="500" alt="Board-1111 (4) (1)" src="https://github.com/user-attachments/assets/706f226e-6280-4bb7-b0a1-8163f4b10e7c" />
 
 
 # netra
