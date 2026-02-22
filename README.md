@@ -1,4 +1,4 @@
-<img width="2000" height="1414" alt="Board-1111 (5) (1)" src="https://github.com/user-attachments/assets/da2e3271-8224-43e7-8a0e-c1486255afcf" />
+<img width="500" height="500" alt="Board-1111 (5) (1)" src="https://github.com/user-attachments/assets/da2e3271-8224-43e7-8a0e-c1486255afcf" />
 
 
 # tantu
