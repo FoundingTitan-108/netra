@@ -1,4 +1,4 @@
-<img width="752" height="532" alt="image" src="https://github.com/user-attachments/assets/8da9306e-040b-4e26-8812-a69183520df9" />
+<img width="500" height="500" alt="Board-1111 (7) (1)" src="https://github.com/user-attachments/assets/8176f31a-7b0e-4a3b-81e6-e108352dd5a2" />
 
 
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
