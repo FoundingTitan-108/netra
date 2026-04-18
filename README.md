@@ -1,4 +1,4 @@
-<img width="300" height="300" alt="Board-1111 (7) (1) (1)" src="https://github.com/user-attachments/assets/a8e42b8a-67bf-4486-92a5-964ea838e3d6" />
+<img width="600" height="800" alt="Board-1111 (7) (1) (1)" src="https://github.com/user-attachments/assets/a8e42b8a-67bf-4486-92a5-964ea838e3d6" />
 
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -7,9 +7,13 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 
-Introduction:
-**tantu** is a network diagnostic CLI tool. It replaces ping, speedtest, and traceroute with one consistent 
+## Introduction:
+**Tantu** is a network diagnostic CLI tool. It replaces ping, speedtest, and traceroute with one consistent 
 tool that gives clean, plain-English output every time.
+
+Why to use tantu ?
+- Tantu transforms fragmented network data into instant, human-readable health verdicts across all platforms in just one second.
+
 
 What probelm does it solves ?
 * Tantu unifies fragmented diagnostic tools into one seamless interface, eliminating the need to juggle multiple complex commands across different operating systems.
@@ -19,5 +23,6 @@ What probelm does it solves ?
 * By providing a consistent experience on Linux, macOS, and Windows, it ensures troubleshooting remains simple regardless of your environment.
 
 
-Inspiration:
-_**"Knowledge is that which draws — the thread that connects."**_ - Dnyaneshwari 18.71, Sant Dnyaneshwar, 1290 CE
+## Inspiration:
+_**"Knowledge is that which draws — the thread that connects."**_ 
+- Dnyaneshwari 18.71, Sant Dnyaneshwar, 1290 CE
