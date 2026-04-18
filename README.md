@@ -1,5 +1,4 @@
-<img width="500" height="500" alt="Board-1111 (7) (1)" src="https://github.com/user-attachments/assets/8176f31a-7b0e-4a3b-81e6-e108352dd5a2" />
-
+<img width="500" height="500" alt="Gemini_Generated_Image_txintttxintttxin (1)" src="https://github.com/user-attachments/assets/16adfcda-35d7-42da-bd75-4cec04bf1266" />
 
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
