@@ -1,15 +1,12 @@
-<img width="450" height="450" alt="Board-1111 (7) (1) (1)" src="https://github.com/user-attachments/assets/a8e42b8a-67bf-4486-92a5-964ea838e3d6" />
+🐦 Tantu - Thread that connects
+> **Tantu** is a network diagnostic CLI tool. It replaces ping, speedtest, and traceroute with one consistent 
+tool that gives clean, plain-English output every time.
 
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Network Analysis](https://img.shields.io/badge/Network-Analysis-darkblue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-
-
-## Introduction:
-**Tantu** is a network diagnostic CLI tool. It replaces ping, speedtest, and traceroute with one consistent 
-tool that gives clean, plain-English output every time.
 
 
 ## Why to use tantu ?
