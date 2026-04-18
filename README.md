@@ -24,5 +24,6 @@ tool that gives clean, plain-English output every time.
 ## Inspiration:
 _**Everything is strung on a thread — like beads on a string.**_   
 -  Bhagavad Gita 7.7·Lord Krishna
-_**Knowledge is that which draws — the thread that connects.**_
+  
+- _**Knowledge is that which draws — the thread that connects.**_
 -  Dnyaneshwari 18.71, Sant Dnyaneshwar, 1290 CE
