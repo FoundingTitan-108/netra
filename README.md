@@ -21,6 +21,6 @@ tool that gives clean, plain-English output every time.
 * By providing a consistent experience on Linux, macOS, and Windows, it ensures troubleshooting remains simple regardless of your environment.
 
 
-## Inspiration:**_
-**Everything is strung on a thread — like beads on a string.**_   — Bhagavad Gita 7.7  ·  Lord Krishna
+## Inspiration:
+_**Everything is strung on a thread — like beads on a string.**_   -  Bhagavad Gita 7.7·Lord Krishna
 _**Knowledge is that which draws — the thread that connects.**_  -  Dnyaneshwari 18.71, Sant Dnyaneshwar, 1290 CE
