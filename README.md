@@ -1,4 +1,4 @@
-<img width="1200" height="462" alt="image" src="https://github.com/user-attachments/assets/d752c14a-9dd8-4299-8a52-b4f698a39d1e" />
+<img width="1200" height="462" alt="thread that connects (1)" src="https://github.com/user-attachments/assets/88855a6e-0d05-4d10-9b46-48343b571fd3" />
 
 
 # 🐦 Tantu - Thread that connects
