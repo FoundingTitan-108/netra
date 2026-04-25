@@ -1,6 +1,6 @@
 <img width="1382" height="532" alt="image" src="https://github.com/user-attachments/assets/d6477ee5-0b2c-4750-a7ff-a9e6ee68c5f3" />
 
-# 🐦 Tantu - Thread that connects
+# Tantu - Thread that connects
 > **Tantu** is a network diagnostic CLI tool. It replaces ping, speedtest, and traceroute with one consistent 
 tool that gives clean, plain-English output every time.
 
