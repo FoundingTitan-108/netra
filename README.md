@@ -1,3 +1,4 @@
+<img width="450" height="450" alt="My desktop Wallpaper (14) (1)" src="https://github.com/user-attachments/assets/03c292bc-85d5-4a2d-85f3-6d64d81e6873" />
 
 # 🐦 Tantu - Thread that connects
 > **Tantu** is a network diagnostic CLI tool. It replaces ping, speedtest, and traceroute with one consistent 
