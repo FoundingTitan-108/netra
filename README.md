@@ -1,4 +1,4 @@
-<<img width="1382" height="532" alt="ChatGPT Image Jun 4, 2026, 09_34_31 PM" src="https://github.com/user-attachments/assets/96f5561d-cf8e-4967-b955-750bd989f2c3" />
+<img width="1774" height="887" alt="ChatGPT Image Jun 4, 2026, 09_34_31 PM" src="https://github.com/user-attachments/assets/185414d4-1299-43f9-8a3f-3e3d0f6b865b" />
 
 
 # Tantu - Thread that connects
