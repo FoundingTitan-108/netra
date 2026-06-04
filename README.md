@@ -1,4 +1,5 @@
-<img width="1382" height="532" alt="image" src="https://github.com/user-attachments/assets/d6477ee5-0b2c-4750-a7ff-a9e6ee68c5f3" />
+<<img width="1382" height="532" alt="ChatGPT Image Jun 4, 2026, 09_34_31 PM" src="https://github.com/user-attachments/assets/96f5561d-cf8e-4967-b955-750bd989f2c3" />
+
 
 # Tantu - Thread that connects
 > **Tantu** is a network diagnostic CLI tool. It replaces ping, speedtest, and traceroute with one consistent 
