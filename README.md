@@ -9,6 +9,7 @@
 ![OS](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
 ![OS](https://img.shields.io/badge/OS-Windows-0078D4?logo=windows&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-macOS-000000?logo=apple&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square)
 ![Network Analysis](https://img.shields.io/badge/Network-Analysis-darkblue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
