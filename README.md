@@ -2,8 +2,8 @@
 
 
 # Tantu - Thread that connects
-> **Tantu** is a network diagnostic CLI tool. It replaces ping, speedtest, and traceroute with one consistent 
-tool that gives clean, plain-English output every time.
+> **Tantu** is a network diagnostics CLI. It replaces `ping`, `speedtest`, `traceroute`,
+`ip`, and `curl` with one consistent tool that gives clean, plain-English output every time.
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
@@ -12,22 +12,48 @@ tool that gives clean, plain-English output every time.
 ![Network Analysis](https://img.shields.io/badge/Network-Analysis-darkblue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
+> ⚠️ Under active development — feedback and contributions welcome.
 
-## Why to use tantu ?
-- Tantu transforms fragmented network data into instant, human-readable health verdicts across all platforms in just one second.
+---
 
+## Commands
 
-## What tantu solves ?
+```
+tantu iface    →  How am I connected?
+tantu speed    →  How fast is my connection?
+tantu health   →  Is my network healthy?
+```
 
-- **Tool overload** — stop jumping between `ping`, `traceroute`, `speedtest-cli`, `ip a` and `curl` just to diagnose one issue
-- **Noisy output** — no more raw numbers and system flags nobody needs — just the signal that matters
-- **No clear verdict** — instant `[ok]` `[warn]` `[fail]` status — no mental math at 3am
-- **Slow diagnosis** — find exactly which hop is failing in one command instead of five
-- **Platform chaos** — same command, same output on Linux, macOS, and Windows
+---
+
+## Install
+
+```bash
+git clone https://github.com/yourname/tantu.git
+cd tantu
+pip install .
+```
+
+---
+
+## Why Tantu?
+
+| Without Tantu | With Tantu |
+|---|---|
+| Jump between 4–5 tools | One command |
+| Raw numbers, system flags | Plain-English output |
+| No clear verdict at 3 AM | Instant `[ok]` `[warn]` `[fail]` status |
+| Guess which hop is failing | Pinpoint it directly |
+| Different syntax per platform | Same command everywhere |
+
+---
 
 ## Inspiration
-> **“Everything is strung on a thread — like beads on a string.”**  
-> — Bhagavad Gita 7.7, Lord Krishna  
 
-> **“Knowledge is that which draws — the thread that connects.”**  
-> — Dnyaneshwari 18.71, Sant Dnyaneshwar (1290 CE))
+> *"Everything is strung on a thread — like beads on a string."*
+> — Bhagavad Gita 7.7, Lord Krishna
+
+> *"Knowledge is that which draws — the thread that connects."*
+> — Dnyaneshwari 18.71, Sant Dnyaneshwar (1290 CE)
+
+Tantu is Sanskrit for *thread.* It connects fragmented network signals into one clear picture.
