@@ -6,6 +6,7 @@
 `ip`, and `curl` with one consistent tool that gives clean, plain-English output every time.
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![OS](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
 ![OS](https://img.shields.io/badge/OS-Windows-0078D4?logo=windows&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-macOS-000000?logo=apple&logoColor=white)
