@@ -1,4 +1,4 @@
-# $ tantu 🧵
+# $ tantu 
 > thread that connects...
 
 **tantu** is a cross-platform network diagnostics CLI.  
